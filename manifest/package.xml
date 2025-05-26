@@ -2,6 +2,8 @@
     <version>59.0</version>
     <types>
         <members>Account.CRMforNonProfit__First_Transaction_Date__c</members>
+        <members>agf__ADM_Burndown_Item__c.agf__Scrum_Team__c</members>
+        <members>agf__ADM_Burndown_Item__c.agf__Work__c</members>
         <name>CustomField</name>
     </types>
 </Package>
