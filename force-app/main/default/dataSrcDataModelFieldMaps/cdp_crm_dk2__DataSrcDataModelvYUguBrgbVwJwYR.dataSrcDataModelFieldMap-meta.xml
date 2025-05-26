@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
-    <masterLabel>DataSrcDataModelvYUguBrgbVwJwYR</masterLabel>
-    <sourceField>cdp_crm_dk2__Problem1.cdp_crm_dk2__OwnerId__c</sourceField>
-    <targetField>ssot__Problem__dlm.ssot__OwnerId__c</targetField>
-    <versionNumber>1.0</versionNumber>
-</DataSrcDataModelFieldMap>

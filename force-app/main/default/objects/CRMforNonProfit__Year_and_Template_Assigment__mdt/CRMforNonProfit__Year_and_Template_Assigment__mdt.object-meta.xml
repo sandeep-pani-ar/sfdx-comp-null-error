@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
-    <description>object to store pairs of years and used templates for self service certificate generation.</description>
-    <label>Year and Template Assigment</label>
-    <pluralLabel>Year and Template Assigments</pluralLabel>
-    <visibility>Public</visibility>
-</CustomObject>

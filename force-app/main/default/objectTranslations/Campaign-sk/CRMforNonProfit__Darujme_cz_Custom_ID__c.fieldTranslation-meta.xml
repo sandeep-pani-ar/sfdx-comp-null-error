@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label><!-- Darujme.cz Custom ID (obsolete) --></label>
-    <name>CRMforNonProfit__Darujme_cz_Custom_ID__c</name>
-</CustomFieldTranslation>

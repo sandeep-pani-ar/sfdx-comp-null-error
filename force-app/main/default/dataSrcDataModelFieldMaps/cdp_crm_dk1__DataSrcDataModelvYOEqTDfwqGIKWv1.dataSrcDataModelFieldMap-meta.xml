@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
-    <masterLabel>DataSrcDataModelvYOEqTDfwqGIKWv</masterLabel>
-    <sourceField>cdp_crm_dk1__EmailMessage.cdp_crm_dk1__MessageDate__c</sourceField>
-    <targetField>ssot__EmailMessage__dlm.ssot__MessageDate__c</targetField>
-    <versionNumber>1.0</versionNumber>
-</DataSrcDataModelFieldMap>

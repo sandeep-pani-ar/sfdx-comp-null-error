@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- check for the default contact --></help>
-    <label><!-- Skip from transactions calculation --></label>
-    <name>CRMforNonProfit__Skip_from_transactions_calculation__c</name>
-</CustomFieldTranslation>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
-    <masterLabel>DataSrcDataModelPafKZNhNFQCNFwY1</masterLabel>
-    <sourceField>cdp_crm_dk1__EventParticipant.cdp_crm_dk1__DataSource__c</sourceField>
-    <targetField>ssot__ActivityParticipant__dlm.ssot__DataSourceId__c</targetField>
-    <versionNumber>1.0</versionNumber>
-</DataSrcDataModelFieldMap>

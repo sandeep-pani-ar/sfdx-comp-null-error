@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ForecastingFilter xmlns="http://soap.sforce.com/2006/04/metadata">
-    <filterLogic>1</filterLogic>
-    <forecastingType>Test_Forecast</forecastingType>
-    <forecastingTypeSource>FTS_Test_Forecast7syPl000000015lIAA570290532567177</forecastingTypeSource>
-    <isProtected>false</isProtected>
-    <masterLabel>FF_Test_Forecast0hlPl00000001DpIAI619139523794182</masterLabel>
-</ForecastingFilter>

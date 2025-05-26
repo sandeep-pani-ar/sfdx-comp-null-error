@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Field used by Donor Certificate Job to mark docs created by it job. Field is then used in trigger, to create cases to send certificates manually for contacts without email. --></help>
-    <label><!-- Donor Certificate --></label>
-    <name>CRMforNonProfit__Donor_Certificate__c</name>
-</CustomFieldTranslation>
