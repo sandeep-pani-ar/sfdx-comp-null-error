@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AgentTTR__c</fullName>
+    <externalId>false</externalId>
+    <isFilteringDisabled>false</isFilteringDisabled>
+    <isNameField>false</isNameField>
+    <isSortingDisabled>false</isSortingDisabled>
+    <label>Agent Time To Resolution</label>
+    <mktDataModelFieldAttributes>
+        <definitionCreationType>Standard</definitionCreationType>
+        <invalidMergeActionType>Drop</invalidMergeActionType>
+        <isDynamicLookup>false</isDynamicLookup>
+        <refAttrDeveloperName>AgentTTR</refAttrDeveloperName>
+        <usageTag>None</usageTag>
+    </mktDataModelFieldAttributes>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>6</scale>
+    <type>Number</type>
+</CustomField>

@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "3f160c4c-ceb7-42cf-ac99-ab7499d4648e",
+  "appPageId" : "0297796a-3c0c-44f8-98a9-fc4a3200c3e0",
+  "configurationTags" : [ ],
+  "devName" : "Page3__c",
+  "id" : "ba575ba9-6ddc-46dc-87b9-7fa8fb54e780",
+  "label" : "Page3",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-page3",
+  "type" : "route",
+  "urlPrefix" : "page3"
+}

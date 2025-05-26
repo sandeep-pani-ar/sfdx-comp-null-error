@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Business size refers to the size of a company’s operations. --></help>
+    <label><!-- Business Size --></label>
+    <name>Business_Size__c</name>
+    <picklistValues>
+        <masterLabel>Large-sized business: more than 250 employees.</masterLabel>
+        <translation><!-- Large-sized business: more than 250 employees. --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Medium business: 50-249 employees</masterLabel>
+        <translation><!-- Medium business: 50-249 employees --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Micro-sized business: less than 10 employees</masterLabel>
+        <translation><!-- Micro-sized business: less than 10 employees --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Small-sized business: 10-49 employees</masterLabel>
+        <translation><!-- Small-sized business: 10-49 employees --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

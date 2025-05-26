@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRMforNonProfit__PDF_Generator_Public_Site__c</fullName>
+    <deprecated>false</deprecated>
+    <description>generatePdfFromHtml makes callout to the URL defined in &apos;PDF_Generator_Public_Site&apos; + &apos;/apex/PDFGenerator&apos;</description>
+    <externalId>false</externalId>
+    <inlineHelpText>eg: https://hackaton-armadaspasy.cs19.force.com/SelfServiceCertificates</inlineHelpText>
+    <label>PDF Generator Public Site</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

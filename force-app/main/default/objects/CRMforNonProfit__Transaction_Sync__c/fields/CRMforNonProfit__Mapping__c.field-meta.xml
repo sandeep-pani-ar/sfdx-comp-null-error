@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRMforNonProfit__Mapping__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <label>Mapping</label>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Source_Account_Number__c,Transaction_Amount__c,Transaction_Date__c</fullName>
+                <default>false</default>
+                <label>Source Account, Amount, Date</label>
+            </value>
+            <value>
+                <fullName>Source_Account_Number__c,Transaction_Amount__c,Transaction_Date__c,Variable__c</fullName>
+                <default>false</default>
+                <label>Source Account, Amount, Date, Variable</label>
+            </value>
+            <value>
+                <fullName>Transaction_External_Id__c</fullName>
+                <default>true</default>
+                <label>Transaction Id</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

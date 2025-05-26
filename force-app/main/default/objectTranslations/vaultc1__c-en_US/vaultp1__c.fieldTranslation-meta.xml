@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- vaultp1 --></label>
+    <name>vaultp1__c</name>
+    <relationshipLabel><!-- vaultc1s --></relationshipLabel>
+</CustomFieldTranslation>

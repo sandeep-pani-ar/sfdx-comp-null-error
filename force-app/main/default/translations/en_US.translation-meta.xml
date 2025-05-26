@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label><!-- 2 --></label>
+        <name>AC1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AC211201 --></label>
+        <name>AC2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ACCL1 --></label>
+        <name>ACCL1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ACCL3 --></label>
+        <name>ACCL3</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ACCt3 --></label>
+        <name>ACCt3</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ACL1023 --></label>
+        <name>ACL101</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AccNewLabel1 --></label>
+        <name>AccNewLabel1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Acclabel45 --></label>
+        <name>Acclabel45</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CampaigntWithTransactionDoNotDelete --></label>
+        <name>CRMforNonProfit__CampaigntWithTransactionDoNotDelete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- certificatesManagement; case data change --></label>
+        <name>CRMforNonProfit__CaseChangeDataSubject</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- certificatesManagement; case manual queue --></label>
+        <name>CRMforNonProfit__CaseManualQueueDescription</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- certificatesManagement; case manual queue --></label>
+        <name>CRMforNonProfit__CaseManualQueueSubject</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ContactWithTransactionDoNotDelete --></label>
+        <name>CRMforNonProfit__ContactWithTransactionDoNotDelete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- certificatesManagement; status --></label>
+        <name>CRMforNonProfit__Daily_Certificates_Email_Limit_Remaining</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- certificatesManagement; status --></label>
+        <name>CRMforNonProfit__Daily_Email_Limit_Remaining</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- certificatesManagement; status --></label>
+        <name>CRMforNonProfit__Daily_Limit_Info</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Date Sent --></label>
+        <name>CRMforNonProfit__Date_Sent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Default --></label>
+        <name>CRMforNonProfit__Default</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EmailTemplate --></label>
+        <name>CRMforNonProfit__EmailTemplate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error --></label>
+        <name>CRMforNonProfit__Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- From Address --></label>
+        <name>CRMforNonProfit__From_Address</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- GeneratePdf --></label>
+        <name>CRMforNonProfit__GeneratePdf</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- GeneratePdfHelpText --></label>
+        <name>CRMforNonProfit__GeneratePdfHelpText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Group --></label>
+        <name>CRMforNonProfit__Group</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Group Field Label --></label>
+        <name>CRMforNonProfit__Group_Field_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- JobIsAlreadyRunning --></label>
+        <name>CRMforNonProfit__JobIsAlreadyRunning</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MessageSent --></label>
+        <name>CRMforNonProfit__MessageSent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MessageSentSingle --></label>
+        <name>CRMforNonProfit__MessageSentSingle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PdfGenerated --></label>
+        <name>CRMforNonProfit__PdfGenerated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PdfTemplate --></label>
+        <name>CRMforNonProfit__PdfTemplate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PreviewMessageSentSingle --></label>
+        <name>CRMforNonProfit__PreviewMessageSentSingle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Send --></label>
+        <name>CRMforNonProfit__Send</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SendCertificate --></label>
+        <name>CRMforNonProfit__SendCertificate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SendEmailConfirmation --></label>
+        <name>CRMforNonProfit__SendEmailConfirmation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SendEmailError --></label>
+        <name>CRMforNonProfit__SendEmailError</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SendEmails --></label>
+        <name>CRMforNonProfit__SendEmails</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Sent Field Label --></label>
+        <name>CRMforNonProfit__Sent_Field_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Status --></label>
+        <name>CRMforNonProfit__Status</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Status Field Label --></label>
+        <name>CRMforNonProfit__Status_Field_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Success --></label>
+        <name>CRMforNonProfit__Success</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Total  Field Label --></label>
+        <name>CRMforNonProfit__Total_Field_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- certificatesManagement; list of transactions --></label>
+        <name>CRMforNonProfit__TransactionAmount</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- certificatesManagement; list of transactions --></label>
+        <name>CRMforNonProfit__TransactionCurrency</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- certificatesManagement; list of transactions --></label>
+        <name>CRMforNonProfit__TransactionDate</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- certificatesManagement; list of transactions --></label>
+        <name>CRMforNonProfit__TransactionDetail</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TransactionListview --></label>
+        <name>CRMforNonProfit__TransactionListview</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Warning --></label>
+        <name>CRMforNonProfit__Warning</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Year in the table of transactions if {{transactions}} used in PDF --></label>
+        <name>CRMforNonProfit__Year</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Year Field Label --></label>
+        <name>CRMforNonProfit__Year_Field_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- certificatesManagement --></label>
+        <name>CRMforNonProfit__certificatesManagement</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- certificatesManagement --></label>
+        <name>CRMforNonProfit__sendTest</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CustomLabelsTest --></label>
+        <name>CustomLabelsTest</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Customlabelwithtransalation --></label>
+        <name>Customlabelwithtransalation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FS_Container_AuthenticationFailure_Title_04IPl000000E9eX_5969236 --></label>
+        <name>FS_Container_AuthenticationFailure_Title_04IPl000000E9eX_5969236</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Acceptance Criteria --></label>
+        <name>agf__ADM_AcceptanceCriteria</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Description --></label>
+        <name>agf__ADM_AcceptanceCriteria_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name --></label>
+        <name>agf__ADM_AcceptanceCriteria_Name</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Status --></label>
+        <name>agf__ADM_AcceptanceCriteria_Status</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Add Assignee --></label>
+        <name>agf__ADM_Add_Assignee</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Bugs --></label>
+        <name>agf__ADM_Bugs</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel --></label>
+        <name>agf__ADM_Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Chatter tab --></label>
+        <name>agf__ADM_Chatter</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Color Selector --></label>
+        <name>agf__ADM_Color_Selector</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No Color --></label>
+        <name>agf__ADM_Color_Selector_No_Color</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Work has already been committed to this sprint --></label>
+        <name>agf__ADM_Commitment_Exists_On_Sprint</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Let user know what happens when they delete the column. --></label>
+        <name>agf__ADM_Confirm_Delete_Column_Footer_Body</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Default --></label>
+        <name>agf__ADM_Default</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Default Priority --></label>
+        <name>agf__ADM_Default_Priority</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Definition of Ready Met --></label>
+        <name>agf__ADM_Definition_of_Ready_Met</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Details tab --></label>
+        <name>agf__ADM_Details</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Edit Color --></label>
+        <name>agf__ADM_Edit_Color</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Edit Record --></label>
+        <name>agf__ADM_Edit_Record</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error --></label>
+        <name>agf__ADM_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- This validation error message is visible in the UI --></label>
+        <name>agf__ADM_Error_Msg_Closing_Non_Deterministic_Test</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- This validation error message is visible in the UI --></label>
+        <name>agf__ADM_Error_Msg_Closing_Test_Failure</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- This validation error message is visible in the UI --></label>
+        <name>agf__ADM_Error_Msg_Required_Field</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- This validation error message is visible in the UI --></label>
+        <name>agf__ADM_File_Upload_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- This message is visible in the UI --></label>
+        <name>agf__ADM_File_Uploaded_Success</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- This message is visible in the UI --></label>
+        <name>agf__ADM_Files_Uploaded_Success</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Help me decide --></label>
+        <name>agf__ADM_Help_Me_Decide</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Investigations --></label>
+        <name>agf__ADM_Investigations</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Mass Edit --></label>
+        <name>agf__ADM_Mass_Edit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New --></label>
+        <name>agf__ADM_New</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OK --></label>
+        <name>agf__ADM_OK</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Overridden --></label>
+        <name>agf__ADM_Overridden</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Override --></label>
+        <name>agf__ADM_Override</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Override Priority --></label>
+        <name>agf__ADM_Override_Priority</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Priority --></label>
+        <name>agf__ADM_Priority</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Priority is a required field --></label>
+        <name>agf__ADM_Priority_Field_Required</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Favorite Product Tags --></label>
+        <name>agf__ADM_Product_Tag_Favorites</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Text displayed in the header of the favorite product tags config component --></label>
+        <name>agf__ADM_Product_Tag_Favorites_Header_Text</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Product Tag Name --></label>
+        <name>agf__ADM_Product_Tag_Name</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- You have not set any favorite product tags. --></label>
+        <name>agf__ADM_Product_Tag_No_Favorites</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Info text for removing field in mass edit --></label>
+        <name>agf__ADM_Record_Edit_Blank_Field</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Info text for removing field in mass edit --></label>
+        <name>agf__ADM_Record_Edit_Blank_Field_2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Please select record(s) to edit. --></label>
+        <name>agf__ADM_Record_Edit_Select_Records</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Success Toast Message --></label>
+        <name>agf__ADM_Record_Updated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Success Toast Message --></label>
+        <name>agf__ADM_Records_Successfully_Updated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Success Toast Message --></label>
+        <name>agf__ADM_Records_Updated</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Save --></label>
+        <name>agf__ADM_Save</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Save --></label>
+        <name>agf__ADM_Save_And_Close</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Saving --></label>
+        <name>agf__ADM_Saving</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- number of points that were forecast that have been closed in this sprint --></label>
+        <name>agf__ADM_Sprint_Commitment_Closed_Forecasted</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- number of work items forecast that have been closed in this sprint --></label>
+        <name>agf__ADM_Sprint_Commitment_Closed_Items</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The percentage of forecast work items closed in this sprint --></label>
+        <name>agf__ADM_Sprint_Commitment_Closed_Items_Percent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The percentage of total work items closed to forecast work items --></label>
+        <name>agf__ADM_Sprint_Commitment_Closed_Items_Total_Percent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The percentage of forecast story points closed in this sprint --></label>
+        <name>agf__ADM_Sprint_Commitment_Closed_Percent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The percentage of total story points closed to forecast story points --></label>
+        <name>agf__ADM_Sprint_Commitment_Closed_Points_Total_Percent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Confirm --></label>
+        <name>agf__ADM_Sprint_Commitment_Confirm</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Forecast Confirmation --></label>
+        <name>agf__ADM_Sprint_Commitment_Confirmation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Forecast Details --></label>
+        <name>agf__ADM_Sprint_Commitment_Details</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Forecast --></label>
+        <name>agf__ADM_Sprint_Commitment_Forecast</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Forecast&lt;br/&gt;Points --></label>
+        <name>agf__ADM_Sprint_Commitment_Forecasted_Closed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Forecast&lt;br/&gt;Items --></label>
+        <name>agf__ADM_Sprint_Commitment_Forecasted_Items</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Forecast&lt;br/&gt;Points --></label>
+        <name>agf__ADM_Sprint_Commitment_Forecasted_Points</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Forecast&lt;br/&gt;Items Closed --></label>
+        <name>agf__ADM_Sprint_Commitment_Items_Closed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Forecast&lt;br/&gt;Items Closed (%) --></label>
+        <name>agf__ADM_Sprint_Commitment_Items_Closed_Percent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The total number of work items forecast in this sprint --></label>
+        <name>agf__ADM_Sprint_Commitment_Items_Forecasted</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Next Forecast --></label>
+        <name>agf__ADM_Sprint_Commitment_Next</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Forecast&lt;br/&gt;Points Closed (%) --></label>
+        <name>agf__ADM_Sprint_Commitment_Percent_Closed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The total number of points forecast in this sprint --></label>
+        <name>agf__ADM_Sprint_Commitment_Points_Forecasted</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Previous Forecast --></label>
+        <name>agf__ADM_Sprint_Commitment_Previous</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Would you like to proceed message on Sprint Forecast modal --></label>
+        <name>agf__ADM_Sprint_Commitment_Proceed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Your sprint contains work items with the following statuses: --></label>
+        <name>agf__ADM_Sprint_Commitment_Sprint_Contains_NonVelocity_Items_1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Message shown on forecast modal if sprint contains non-velocity statuses --></label>
+        <name>agf__ADM_Sprint_Commitment_Sprint_Contains_NonVelocity_Items_2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Total&lt;br/&gt;Points Closed (%) --></label>
+        <name>agf__ADM_Sprint_Commitment_Total_Points_Closed_Percent</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Total Work Count --></label>
+        <name>agf__ADM_Sprint_Commitment_Total_Work_Count</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Successfully enabled status mapping updates for the sprint board. --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Board_Auto_Update_Success_Body</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Success --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Board_Auto_Update_Success_Heading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Warning shown when Prefer_Board_Column_Auto_Update__c is set to false --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Board_Auto_Update_Warning</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- click here --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Board_Auto_Update_Warning_Button_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Close --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Board_Auto_Update_Warning_Close</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Close --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Board_Auto_Update_Warning_Warning</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Close Sprint --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Header_Close_Sprint</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Days Left --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Header_Days_Left</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Story Points --></label>
+        <name>agf__ADM_Story_Points</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Success toast title --></label>
+        <name>agf__ADM_Success</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Tasks --></label>
+        <name>agf__ADM_Tasks</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ADM Team Creation Failure Message --></label>
+        <name>agf__ADM_Team_Creation_Failure_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ADM Team Creation Insufficient Perms Message --></label>
+        <name>agf__ADM_Team_Creation_Insufficient_Perms_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ADM Team Creation Success Message --></label>
+        <name>agf__ADM_Team_Creation_Success_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Team Name --></label>
+        <name>agf__ADM_Team_Name</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- To Do --></label>
+        <name>agf__ADM_To_Do</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- User Stories --></label>
+        <name>agf__ADM_User_Stories</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- View All --></label>
+        <name>agf__ADM_View_All</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Work --></label>
+        <name>agf__ADM_Work_Create</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Edit Work --></label>
+        <name>agf__ADM_Work_Edit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- results for --></label>
+        <name>agf__ADM_Work_Manager_Search_Results</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No custom fields have been defined for this Product Tag. --></label>
+        <name>agf__ADM_Work_Page_No_Custom_Product_Tag_Fields</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Product Tag Fields --></label>
+        <name>agf__ADM_Work_Page_Product_Tag_Fields</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Informational text for work priority override modal --></label>
+        <name>agf__ADM_Work_Priority_Override</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error while saving Work --></label>
+        <name>agf__ADM_Work_Save_Failed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Themes --></label>
+        <name>agf__ADM_Work_Theme_Modal_Basic_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Search available Themes --></label>
+        <name>agf__ADM_Work_Theme_Modal_Input_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error Message Start --></label>
+        <name>agf__Acceptance_Criteria_ErrorMessage_Start</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Part of the filter indicator --></label>
+        <name>is_crm__EventStream_After</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Part of the filter indicator --></label>
+        <name>is_crm__EventStream_Before</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the categories list in event expandos --></label>
+        <name>is_crm__EventStream_Categories</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the channel value in each event --></label>
+        <name>is_crm__EventStream_Channel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the Custom event type. --></label>
+        <name>is_crm__EventStream_Custom</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of Custom Object in event type filtering. --></label>
+        <name>is_crm__EventStream_CustomObject</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the description value in event expandos --></label>
+        <name>is_crm__EventStream_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Header of the event types multi selector in the filter dialog. --></label>
+        <name>is_crm__EventStream_EventTypes</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Placeholder when no event types are selected. --></label>
+        <name>is_crm__EventStream_EventTypesPlaceholder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Part of the filter indicator --></label>
+        <name>is_crm__EventStream_For</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label if the item is in stock --></label>
+        <name>is_crm__EventStream_InStock</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the inventory status in event expandos --></label>
+        <name>is_crm__EventStream_Inventory</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- As in &quot;1 item&quot; --></label>
+        <name>is_crm__EventStream_Item</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- As in &quot;2 items&quot; --></label>
+        <name>is_crm__EventStream_Items</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the line item id column in order event expandos --></label>
+        <name>is_crm__EventStream_LineItemName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Header of the line items in order event expandos --></label>
+        <name>is_crm__EventStream_LineItems</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the load more button --></label>
+        <name>is_crm__EventStream_LoadMore</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of event date/time when event happened less than one minute ago. --></label>
+        <name>is_crm__EventStream_MinutesAgo</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of event date/time when event happened less than two minutes ago. --></label>
+        <name>is_crm__EventStream_Now</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label if the item is out of stock --></label>
+        <name>is_crm__EventStream_OutOfStock</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the unit price value in event expandos --></label>
+        <name>is_crm__EventStream_Price</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the Purchase event --></label>
+        <name>is_crm__EventStream_Purchase</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the quantity column in order event expandos --></label>
+        <name>is_crm__EventStream_Quantity</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the rating value in event expandos --></label>
+        <name>is_crm__EventStream_Rating</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Part of the filter indicator --></label>
+        <name>is_crm__EventStream_ShowingEvents</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- &quot;Show or hide details&quot; tool tip --></label>
+        <name>is_crm__EventStream_ToggleDetails</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the &quot;View&quot; event. E.g. &quot;View Product&quot; --></label>
+        <name>is_crm__EventStream_View</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the &quot;View Page&quot; event type. --></label>
+        <name>is_crm__EventStream_ViewPage</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Text for a button that adds a new Attribute. --></label>
+        <name>is_crm__Lightning_Add_Attribute_Button</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Text for a button that adds a Profile Object. --></label>
+        <name>is_crm__Lightning_Add_Profile_Object_Button</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The error message in case of no data found --></label>
+        <name>is_crm__Lightning_Affinities_NoData_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Describes how data is mapped. Example: AccountName &quot;as&quot; Name --></label>
+        <name>is_crm__Lightning_As_Text</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Text fields referencing attributes. --></label>
+        <name>is_crm__Lightning_Attribute_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Outlines a set of profile object related attributes inputs. --></label>
+        <name>is_crm__Lightning_Attributes_Legend</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- &quot;Cancel&quot; button label --></label>
+        <name>is_crm__Lightning_Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if selected field in the record does not have value --></label>
+        <name>is_crm__Lightning_Credential_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The error message in case the data set has been deleted. --></label>
+        <name>is_crm__Lightning_DatasetNotFound_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Dropdown input to select a dataset. Example option: &quot;My_dataset_1&quot; --></label>
+        <name>is_crm__Lightning_Dataset_Input_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if the previously selected dataset no longer exists --></label>
+        <name>is_crm__Lightning_Dataset_No_Longer_Exists_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Loading message displayed while waiting for a list of datasets --></label>
+        <name>is_crm__Lightning_Datasets_Spinner_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Text for delete button --></label>
+        <name>is_crm__Lightning_Delete_Button</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Text for details button --></label>
+        <name>is_crm__Lightning_Details_Button</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Apply dialog label --></label>
+        <name>is_crm__Lightning_DialogApply</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel dialog label --></label>
+        <name>is_crm__Lightning_DialogCancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Close dialog label --></label>
+        <name>is_crm__Lightning_DialogClose</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Open dialog label --></label>
+        <name>is_crm__Lightning_DialogOpen</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Apply dialog label --></label>
+        <name>is_crm__Lightning_DialogTitleFilter</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Apply dialog label --></label>
+        <name>is_crm__Lightning_Dialog_DateEnd</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Apply dialog label --></label>
+        <name>is_crm__Lightning_Dialog_DateRange</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Apply dialog label --></label>
+        <name>is_crm__Lightning_Dialog_DateStart</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The error message in case of no data found --></label>
+        <name>is_crm__Lightning_EventStream_NoData_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The error message in case of invalid time range --></label>
+        <name>is_crm__Lightning_EventStream_TimeRangeInvalid_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The error message in case of too many requests --></label>
+        <name>is_crm__Lightning_EventStream_TooManyRequests_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Field has already been mapped --></label>
+        <name>is_crm__Lightning_Field_Already_Mapped</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Interaction Name --></label>
+        <name>is_crm__Lightning_Field_Interaction_Name_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MultiString type not supported --></label>
+        <name>is_crm__Lightning_Field_Multistring_Type_Not_Supported</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if the previously selected field or fields no longer exist --></label>
+        <name>is_crm__Lightning_Field_No_Longer_Exists_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Object type not supported --></label>
+        <name>is_crm__Lightning_Field_Object_Type_Not_Supported</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if a standard action name is used for custom action name --></label>
+        <name>is_crm__Lightning_Field_Standard_Action_Name_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Loading message displayed while waiting for a list of attributes --></label>
+        <name>is_crm__Lightning_Fields_Spinner_Message</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Describes profile object id and type mapping. Example: anyId &quot;for&quot; CaseStatus --></label>
+        <name>is_crm__Lightning_For_Text</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Text field to input profile object ID. --></label>
+        <name>is_crm__Lightning_Id_Value_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Outlines a set of related identity inputs. --></label>
+        <name>is_crm__Lightning_Identities_Legend</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Checkbox label --></label>
+        <name>is_crm__Lightning_IncreaseBatchSize</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Checkbox label helptext, visible when hover over tooltip icon --></label>
+        <name>is_crm__Lightning_IncreaseBatchSizeHelptext</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The error message in case of multiple identities disabled --></label>
+        <name>is_crm__Lightning_InvalidUserIdentifierType_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The error message in case of multiple identities disabled --></label>
+        <name>is_crm__Lightning_MultipleIdentitiesDisabled_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Link text that leads to a named credential help page --></label>
+        <name>is_crm__Lightning_Named_Credential</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if the user has a misconfigured named credential. {0} is named credential --></label>
+        <name>is_crm__Lightning_Named_Credential_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The error message in case of no data found --></label>
+        <name>is_crm__Lightning_NextBestPromoAction_NoData_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Next best promotions LWC title --></label>
+        <name>is_crm__Lightning_NextBestPromoAction_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The error message in case of no data found --></label>
+        <name>is_crm__Lightning_NextBestRecommendation_NoData_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Next best recommendations LWC title --></label>
+        <name>is_crm__Lightning_NextBestRecommendation_Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if selected field in the record does not have value --></label>
+        <name>is_crm__Lightning_NextBests_Credential_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The error message in case of IS or CRM miss config --></label>
+        <name>is_crm__Lightning_NoIsCrmConfig_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The error message in case of no user found --></label>
+        <name>is_crm__Lightning_NoUser_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if selected field is empty --></label>
+        <name>is_crm__Lightning_NoValueForRecordField_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if the user didn&apos;t select a dataset --></label>
+        <name>is_crm__Lightning_No_Dataset_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if the user didn&apos;t enter an interaction name --></label>
+        <name>is_crm__Lightning_No_Interaction_Name_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if the user entered a Profile Object ID --></label>
+        <name>is_crm__Lightning_No_Profile_Object_Id_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if the user entered a Profile Object Type --></label>
+        <name>is_crm__Lightning_No_Profile_Object_Type_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if the user didn&apos;t select a source field --></label>
+        <name>is_crm__Lightning_No_Source_Field_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if the user didn&apos;t enter a target field --></label>
+        <name>is_crm__Lightning_No_Target_Field_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Legend for a group of 1 or more checkboxes. --></label>
+        <name>is_crm__Lightning_Options_Legend</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Profile object title. --></label>
+        <name>is_crm__Lightning_Profile_Object_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Profile object type input. --></label>
+        <name>is_crm__Lightning_Profile_Object_Type_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Outlines a set of related profile object inputs. --></label>
+        <name>is_crm__Lightning_Profile_Objects_Legend</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- &quot;Redirect&quot; button label --></label>
+        <name>is_crm__Lightning_Redirect</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Redirection modal header --></label>
+        <name>is_crm__Lightning_RedirectionHeader</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Redirection modal header --></label>
+        <name>is_crm__Lightning_RedirectionText</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error if the server failed to some fields --></label>
+        <name>is_crm__Lightning_Retrieve_Fields_Unexpected_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Describes a movement of data. Example: Contact &quot;to&quot; Database --></label>
+        <name>is_crm__Lightning_To_Text</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Invalid conversion from types --></label>
+        <name>is_crm__Lightning_Type_Conversion_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Outlines a set of related attributes inputs. --></label>
+        <name>is_crm__Lightning_User_Attributes_Legend</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Text fields referencing source field values. --></label>
+        <name>is_crm__Lightning_Value_Label</name>
+    </customLabels>
+</Translations>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRMforNonProfit__Transaction_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Typ transakce. Do součtů na kontaktech a firmách jsou započítávány pouze &quot;peněžní dar&quot; a &quot;nepeněžní dar&quot;.</description>
+    <externalId>false</externalId>
+    <label>Transaction Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>peněžní dar</fullName>
+                <default>true</default>
+                <label>peněžní dar</label>
+            </value>
+            <value>
+                <fullName>nepeněžní dar</fullName>
+                <default>false</default>
+                <label>nepeněžní dar</label>
+            </value>
+            <value>
+                <fullName>členský příspěvek</fullName>
+                <default>false</default>
+                <label>členský příspěvek</label>
+            </value>
+            <value>
+                <fullName>dotace/grant</fullName>
+                <default>false</default>
+                <label>dotace/grant</label>
+            </value>
+            <value>
+                <fullName>protiplnění</fullName>
+                <default>false</default>
+                <label>protiplnění</label>
+            </value>
+            <value>
+                <fullName>ostatní</fullName>
+                <default>false</default>
+                <label>ostatní</label>
+            </value>
+            <value>
+                <fullName>Platba za zboží</fullName>
+                <default>false</default>
+                <label>Platba za zboží</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

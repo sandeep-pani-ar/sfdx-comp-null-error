@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRMforNonProfit__Change_Request_Queue__c</fullName>
+    <defaultValue>&apos;Data_Change_Request&apos;</defaultValue>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <inlineHelpText>please insert api name of the queue for cases created from self service function</inlineHelpText>
+    <label>Change Request Queue</label>
+    <length>50</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRMforNonProfit__Status__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <inlineHelpText>Status of sending.
+In Preparation - job is preparing data
+In Queue - job is waiting for another job to finish
+Sending - certificates are being send
+Complete for Today - We have reached limit of emails send
+Complete - job is completed</inlineHelpText>
+    <label>Status</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>In Preparation</fullName>
+                <default>false</default>
+                <label>In Preparation</label>
+            </value>
+            <value>
+                <fullName>In Queue</fullName>
+                <default>false</default>
+                <label>In Queue</label>
+            </value>
+            <value>
+                <fullName>Sending</fullName>
+                <default>false</default>
+                <label>Sending</label>
+            </value>
+            <value>
+                <fullName>Complete for Today</fullName>
+                <default>false</default>
+                <label>Complete for Today</label>
+            </value>
+            <value>
+                <fullName>Complete</fullName>
+                <default>false</default>
+                <label>Complete</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRMforNonProfit__Sync_Last_N_days_to__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Urcuje koncovy pocet dnu - tzn. pokud se v Sync Last N days da 4 a v tomto poli 2, tak to stahne transakce za D-4, D-3, D-2</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Optional - Urcuje koncovy pocet dnu - tzn. pokud se v Sync Last N days da 4 a v tomto poli 2, tak to stahne transakce za D-4, D-3, D-2</inlineHelpText>
+    <label>Sync Last N days To</label>
+    <precision>5</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

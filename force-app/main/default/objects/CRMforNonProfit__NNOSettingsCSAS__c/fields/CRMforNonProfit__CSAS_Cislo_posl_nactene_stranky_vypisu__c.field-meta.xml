@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRMforNonProfit__CSAS_Cislo_posl_nactene_stranky_vypisu__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Číslo poslední načtené stránky (á 100 transakcí) výpisu z banky. Prázdná hodnota značí, že byly zpracovány všechny stránky.</description>
+    <externalId>false</externalId>
+    <label>ČSAS Číslo posl. načtené stránky výpisu</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

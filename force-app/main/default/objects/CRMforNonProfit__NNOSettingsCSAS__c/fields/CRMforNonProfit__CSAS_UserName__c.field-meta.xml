@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRMforNonProfit__CSAS_UserName__c</fullName>
+    <deprecated>false</deprecated>
+    <description>ČSAS Číslo klienta pro přístup k Databanking 24</description>
+    <externalId>false</externalId>
+    <label>ČSAS Číslo klienta</label>
+    <length>20</length>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

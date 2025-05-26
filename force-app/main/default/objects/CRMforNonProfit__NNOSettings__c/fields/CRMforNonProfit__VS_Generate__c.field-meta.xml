@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRMforNonProfit__VS_Generate__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <inlineHelpText>Pokud je zaškrtnuto dochází k automatickému generování variabilního čísla členů kampaně (4 čísla z variabilního symbolu kampaně + 6 čísel pořadové čísla člena kampaně)</inlineHelpText>
+    <label>Generovat VS členů kampaně</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>ABC</masterLabel>
+        <translation>abc</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>DEF</masterLabel>
+        <translation>def</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>GHI</masterLabel>
+        <translation>ghi</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>JKL</masterLabel>
+        <translation>jkl</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MNO</masterLabel>
+        <translation>mno</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PQR</masterLabel>
+        <translation>pqr</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

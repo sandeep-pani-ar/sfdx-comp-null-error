@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRMforNonProfit__Client_Id_From_CMDT__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <formula>$CustomMetadata.CRMforNonProfit__George_Settings__mdt.CRMforNonProfit__Integration_info.CRMforNonProfit__Client_Id__c</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Client Id From CMDT</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

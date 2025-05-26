@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Contact Category --></label>
+    <name>CRMforNonProfit__Contact_Category__c</name>
+    <picklistValues>
+        <masterLabel>Brigádník</masterLabel>
+        <translation>Brigádnik</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dobrovolník</masterLabel>
+        <translation>Dobrovoľník</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dárce</masterLabel>
+        <translation>Darca</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fotograf</masterLabel>
+        <translation><!-- Fotograf --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Právník</masterLabel>
+        <translation>Právnik</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Zaměstnanec</masterLabel>
+        <translation>Zamestnanec</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Člen sdružení</masterLabel>
+        <translation>Člen združenia</translation>
+    </picklistValues>
+</CustomFieldTranslation>

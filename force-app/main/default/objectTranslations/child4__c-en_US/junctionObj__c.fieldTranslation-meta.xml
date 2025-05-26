@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- junctionObj --></label>
+    <name>junctionObj__c</name>
+    <relationshipLabel><!-- child4s --></relationshipLabel>
+</CustomFieldTranslation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRMforNonProfit__Moneta_Cisla_uctu__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Čísla účtů (s lomítkem a číslem banky) které se mají zpracovat, oddělená čárkou.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Čísla účtů (s lomítkem a číslem banky) které se mají zpracovat, oddělená čárkou.</inlineHelpText>
+    <label>Moneta Čísla účtů</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

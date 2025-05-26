@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRMforNonProfit__Default_Transaction_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <label>Default Transaction Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>peněžní dar</fullName>
+                <default>false</default>
+                <label>peněžní dar</label>
+            </value>
+            <value>
+                <fullName>nepeněžní dar</fullName>
+                <default>false</default>
+                <label>nepeněžní dar</label>
+            </value>
+            <value>
+                <fullName>členský příspěvek</fullName>
+                <default>false</default>
+                <label>členský příspěvek</label>
+            </value>
+            <value>
+                <fullName>dotace/grant</fullName>
+                <default>false</default>
+                <label>dotace/grant</label>
+            </value>
+            <value>
+                <fullName>protiplnění</fullName>
+                <default>false</default>
+                <label>protiplnění</label>
+            </value>
+            <value>
+                <fullName>ostatní</fullName>
+                <default>false</default>
+                <label>ostatní</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

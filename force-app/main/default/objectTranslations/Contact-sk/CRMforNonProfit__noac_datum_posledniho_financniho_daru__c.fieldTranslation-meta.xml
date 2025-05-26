@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Datum posledního daru(Trn. bez Acc) --></label>
+    <name>CRMforNonProfit__noac_datum_posledniho_financniho_daru__c</name>
+</CustomFieldTranslation>
